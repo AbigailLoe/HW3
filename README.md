@@ -1,2 +1,2 @@
 # HW3
-HW3 Project: Create own package and version control with Git
+HW3 Project: This is a package that creates the summary coefficient table for a simple linear regression.
