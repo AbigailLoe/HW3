@@ -7,5 +7,8 @@ It was written as part of a course assignment for Biostatistics 625: _Computing 
 
 Features
 --------------
-This package contains source code in the `R` file, a vignette written in `R Markdown` that describes and demonstrates the correctness of the package, the uses, and extreme cases where the package may vary from the output in `lm`.
-HW3 Project: This is a package that creates the summary coefficient table for a simple linear regression.
+This package contains source code in the `R` file, a vignette written in `R Markdown` that describes and demonstrates the correctness of the package, the uses, and extreme cases where the package may vary from the output in `lm`. Additionally, there are help pages.
+
+Still to be implemented as of 11/17/22
+----------------
+efficiency demonstration in 
