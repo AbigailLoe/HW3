@@ -11,4 +11,5 @@ This package contains source code in the `R` file, a vignette written in `R Mark
 
 Still to be implemented as of 11/17/22
 ----------------
-efficiency demonstration in 
+Increased variability of simulated datasets.
+Need to think of good linear models to try. Interactions.
